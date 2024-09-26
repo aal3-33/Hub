@@ -1,2 +1,4 @@
-No longer going to update these scripts
-Gonna be making an anticheat now
+# No longer going to update these scripts
+
+Im making an anticheat now
+Discontinued
